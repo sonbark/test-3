@@ -1,5 +1,7 @@
 import important_stuff as im
 
-im.func()
+im.method()
 
 print("Cool new feature")
+
+print()
